@@ -1,0 +1,12 @@
+{
+  "name": "buckets-datetime",
+  "version": "0.0.1",
+  "description": "DateTime FieldType for Buckets CMS",
+  "main": "index.js",
+  "scripts": {},
+  "author": "David Kaneda",
+  "license": "",
+  "dependencies": {
+    "pikaday": "^1.2.0"
+  }
+}
